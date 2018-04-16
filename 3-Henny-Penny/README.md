@@ -1,4 +1,4 @@
-usage: java Chicken <filename>
+usage: java Chicken 'filename'
   
 A starting 'grid.txt' is given as reference. Feel free to change it to test the code on different grids.
 The letters 'O' and 'X' are used to signify walkable coordinates and potholes respectively.
